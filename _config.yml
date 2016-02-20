@@ -1,0 +1,14 @@
+layout_spectrum: 0.6395236
+typography_spectrum: 0.4852375
+color:
+  saturation: 0.9503604
+  lightness: 0.689795
+  brandStrength: 0.0835145
+  rhythmicContrast: 0.09735345
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: NateMcDorman
